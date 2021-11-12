@@ -4,7 +4,7 @@
 
 Видео записи семинаров размещены на YouTube (https://www.youtube.com/channel/UCI3rCYuuQzZZqCdqPF4_jAw)
 
-Семинар 2
+Семинар 2 (Расчет и проектирование витого ТОА)
 
   - Ч. 1/5 https://www.youtube.com/watch?v=75QdS9splpo
 
@@ -16,6 +16,6 @@
 
   - Ч. 5/5 https://www.youtube.com/watch?v=s0V0A5Pfd2c
 
-Семинар 3
+Семинар 3 (Чтение и составление пневмогидравлических схем)
 
   - https://youtu.be/CYINiELHP70
